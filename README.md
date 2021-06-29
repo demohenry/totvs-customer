@@ -1,7 +1,5 @@
 # totvs-custumer
 
-# Aplicação de teste de competência para TOTVS
+### Aplicação de teste de competência para TOTVS
 
-##vueJS
-##nestJS
-##docker
+#### Utilizando vueJS, nestJS, docker.
